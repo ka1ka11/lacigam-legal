@@ -1,25 +1,25 @@
 # Terms of Use
 
-**QuestMap**
+**Lacigam**
 Last updated: April 25, 2026
 
 ---
 
 ## Acceptance of Terms
 
-By downloading, installing, or using QuestMap ("the App"), you agree to be bound by these Terms of Use. If you do not agree to these terms, do not use the App.
+By downloading, installing, or using Lacigam ("the App"), you agree to be bound by these Terms of Use. If you do not agree to these terms, do not use the App.
 
 ---
 
 ## Description of Service
 
-QuestMap is a location-based mobile application that allows users to discover and complete real-world quests, earn experience points, and engage with a community of other users. The App includes optional social features, in-app purchases, and photo submission capabilities.
+Lacigam is a location-based mobile application that allows users to discover and complete real-world quests, earn experience points, and engage with a community of other users. The App includes optional social features, in-app purchases, and photo submission capabilities.
 
 ---
 
 ## Account Registration
 
-You must create an account to use QuestMap. You agree to:
+You must create an account to use Lacigam. You agree to:
 - Provide accurate information when creating your account
 - Keep your login credentials secure and not share them with others
 - Notify us immediately if you suspect unauthorized access to your account
@@ -34,8 +34,8 @@ You must be at least 13 years old to create an account. By creating an account, 
 ### Photo Submissions
 When you complete a quest, you may submit a photo as proof of completion. By submitting a photo, you:
 - Confirm that you took the photo yourself or have the right to submit it
-- Grant QuestMap a non-exclusive license to store, display, and use the photo for moderation and app operation purposes
-- Agree that the photo may be reviewed by QuestMap moderators
+- Grant Lacigam a non-exclusive license to store, display, and use the photo for moderation and app operation purposes
+- Agree that the photo may be reviewed by Lacigam moderators
 
 ### Prohibited Content
 You agree not to submit photos or other content that:
@@ -45,26 +45,26 @@ You agree not to submit photos or other content that:
 - Depicts illegal activity
 - Is misleading or fraudulent (including submitting photos not related to the quest)
 
-QuestMap reserves the right to remove any content that violates these terms and to suspend or terminate accounts that repeatedly violate them.
+Lacigam reserves the right to remove any content that violates these terms and to suspend or terminate accounts that repeatedly violate them.
 
 ---
 
 ## Moderation
 
-QuestMap moderators review photo submissions to verify quest completions. Moderation decisions are final. Rejected submissions result in the quest being marked as incomplete. There are no resubmissions for rejected quests.
+Lacigam moderators review photo submissions to verify quest completions. Moderation decisions are final. Rejected submissions result in the quest being marked as incomplete. There are no resubmissions for rejected quests.
 
 ---
 
 ## In-App Purchases
 
 ### Premium Purchase
-QuestMap offers a one-time premium upgrade ("QuestMap Premium") for a fee of $5.99 USD. This purchase unlocks additional features as described in the App.
+Lacigam offers a one-time premium upgrade ("Lacigam Premium") for a fee of $5.99 USD. This purchase unlocks additional features as described in the App.
 
 ### Payment
 All payments are processed through Apple's App Store. By making a purchase, you agree to Apple's terms and conditions in addition to these terms.
 
 ### Refunds
-All purchases are final. Refunds are handled exclusively by Apple in accordance with their refund policy. QuestMap has no control over and cannot process refunds directly.
+All purchases are final. Refunds are handled exclusively by Apple in accordance with their refund policy. Lacigam has no control over and cannot process refunds directly.
 
 ### Premium Features
 Premium features are tied to your account. If you delete your account, you will lose access to premium features and no refund will be issued.
@@ -92,24 +92,24 @@ The App uses your device's GPS to record where you complete quests. By using the
 
 ## Intellectual Property
 
-All content, design, and code within QuestMap — including but not limited to the quest system, XP mechanics, achievement designs, and user interface — is owned by or licensed to QuestMap. You may not copy, modify, distribute, or reverse engineer any part of the App without our express written permission.
+All content, design, and code within Lacigam — including but not limited to the quest system, XP mechanics, achievement designs, and user interface — is owned by or licensed to Lacigam. You may not copy, modify, distribute, or reverse engineer any part of the App without our express written permission.
 
 ---
 
 ## Disclaimers
 
-QuestMap is provided "as is" without warranties of any kind. We do not warrant that:
+Lacigam is provided "as is" without warranties of any kind. We do not warrant that:
 - The App will be uninterrupted or error-free
 - Quest data, XP, or streaks will be preserved indefinitely
 - The App will be available in all regions
 
-**Outdoor Activity Disclaimer:** Some quests may encourage outdoor activity. You are solely responsible for your own safety when completing quests. QuestMap is not responsible for any injuries, accidents, or losses that occur while completing quests.
+**Outdoor Activity Disclaimer:** Some quests may encourage outdoor activity. You are solely responsible for your own safety when completing quests. Lacigam is not responsible for any injuries, accidents, or losses that occur while completing quests.
 
 ---
 
 ## Limitation of Liability
 
-To the fullest extent permitted by law, QuestMap shall not be liable for any indirect, incidental, special, or consequential damages arising from your use of the App, including but not limited to loss of XP, streaks, achievements, or premium features due to technical issues.
+To the fullest extent permitted by law, Lacigam shall not be liable for any indirect, incidental, special, or consequential damages arising from your use of the App, including but not limited to loss of XP, streaks, achievements, or premium features due to technical issues.
 
 ---
 
@@ -121,7 +121,7 @@ We reserve the right to suspend or terminate your account at any time for violat
 
 ## Changes to These Terms
 
-We may update these Terms of Use from time to time. We will notify you of significant changes through the App or by email. Continued use of QuestMap after changes constitutes acceptance of the updated terms.
+We may update these Terms of Use from time to time. We will notify you of significant changes through the App or by email. Continued use of Lacigam after changes constitutes acceptance of the updated terms.
 
 ---
 
@@ -139,4 +139,4 @@ If you have questions about these terms, please contact us at:
 
 ---
 
-*These Terms of Use apply to the QuestMap iOS application.*
+*These Terms of Use apply to the Lacigam iOS application.*
